@@ -1,0 +1,8 @@
+{
+  "name": "katalog-service",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": { "start": "node src/index.js", "dev": "node --watch src/index.js" },
+  "dependencies": { "express": "^4.21.2", "jsonwebtoken": "^9.0.2" }
+}
